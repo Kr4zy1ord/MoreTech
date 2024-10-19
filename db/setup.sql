@@ -1,0 +1,2 @@
+-- PostgreSQL database initialization script
+-- Placeholder for creating tables and setting up the database for secrets storage.
